@@ -1,6 +1,6 @@
 {
   "name": "pytharea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple npm package that allows you to use Pythagoras Theorem and compute the area of basic polygons",
   "main": "index.js",
   "scripts": {
