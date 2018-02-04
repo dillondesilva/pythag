@@ -1,0 +1,13 @@
+{
+  "name": "pythag",
+  "version": "1.0.0",
+  "description": "Simple npm package that allows you to use pythagoras theorem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "codetilldrop"
+  },
+  "license": "ISC"
+}
