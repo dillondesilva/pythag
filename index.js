@@ -39,7 +39,7 @@ module.exports = {
     return (b * h) / 2;
   },
 
-  areaOfCircle: function areaOfCircle(r) {
+  areaOfCir: function areaOfCir(r) {
     return Math.PI * Math.pow(r, 2);
   },
 
