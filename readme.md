@@ -27,3 +27,36 @@ if (validTriad) {
 }
 ```
 
+## API
+All arguments passed to all functions must be integers
+### .validTriad(a, b, c)
+Returns true if given numbers are a valid triad. Order of arguments passed does not matter.
+
+### .findHypotenuse(a, b)
+Returns the result of what the hypotenuse of the two numbers would be.
+
+### .findShortSide(a, b)
+Returns the result of what the second short side would given the first short side and hypotenuse. Order of arguments passed does not matter.
+
+### .areaOfRect(a, b)
+Returns the area of a rectangle, square or parallelogram using the given lengths.
+
+### .areaOfTrap(a, b, c)
+Returns the area of a trapezium. Please make sure that the first argument you pass is the height.
+
+### .areaOfRhom(a, b)
+Returns the area of a rhombus using the given lengths.
+
+### .areaOfTri(a, b)
+Returns the area of a triangle using the given lengths.
+
+### .areaOfCircle(a)
+Returns the area of a circle using the given radius.
+
+### .circumference(a)
+Returns the circumference of a circle using the given radius.
+
+### .areaOfAnnu(a, b)
+Returns the area of an annulus using the given radii.
+
+

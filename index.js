@@ -47,7 +47,7 @@ module.exports = {
     return 2 * r * Math.PI;
   } ,
 
-  areaOfAnul: function areaOfAnul(r, R) {
+  areaOfAnnu: function areaOfAnnu(r, R) {
     var sortedArray = [r, R].sort();
     return Math.PI * (Math.pow(sortedArray[1], 2) - Math.pow(sortedArray[0], 2));
   }
