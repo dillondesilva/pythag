@@ -1,13 +1,21 @@
 {
   "name": "pytharea",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Simple npm package that allows you to use Pythagoras Theorem and compute the area of basic polygons",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "url": "https://github.com/codetilldrop/pythag",
-  "keywords": ["Pythagoras", "Math", "Theorem", "Triad", "Area", "Triangles", "Easy"],
+  "keywords": [
+    "Pythagoras",
+    "Math",
+    "Theorem",
+    "Triad",
+    "Area",
+    "Triangles",
+    "Easy"
+  ],
   "author": {
     "name": "codetilldrop"
   },
