@@ -1,7 +1,7 @@
 {
-  "name": "pythag",
+  "name": "pytharea",
   "version": "1.0.0",
-  "description": "Simple npm package that allows you to use pythagoras theorem",
+  "description": "Simple npm package that allows you to use Pythagoras Theorem and compute the area of basic polygons",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
